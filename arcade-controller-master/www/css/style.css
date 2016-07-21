@@ -1,0 +1,84 @@
+/* Empty. Add your own CSS if you like */
+/*#myElement {
+  background: silver;
+  height: 300px;
+  text-align: center;
+  font: 30px/300px Helvetica, Arial, sans-serif;
+}*/
+#wrapper {
+  position: relative;
+}
+
+.hammerjs-element {
+
+}
+
+.controller-wrapper {
+  text-align: center;
+  overflow: hidden;
+}
+
+.control-wrapper {
+  width: 200px;
+	height: 200px;
+}
+
+.circle-socket {
+  width: 200px;
+  height: 200px;
+
+  -moz-border-radius: 150px;
+  -webkit-border-radius: 150px;
+  border-radius: 150px;
+
+  position: relative;
+}
+
+#info-panel {
+  width: 100px;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+}
+
+#joystick-wrapper {
+    float: left;
+}
+
+#joystick-socket {
+  background: gray;
+}
+
+#joystick-knob {
+	width: 90px;
+	height: 90px;
+	background: blue;
+	-moz-border-radius: 45px;
+	-webkit-border-radius: 45px;
+	border-radius: 45px;
+
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+#button-wrapper {
+  float: right;
+}
+
+#button-socket {
+  background: gray;
+}
+
+#button-center {
+  width: 90px;
+  height: 90px;
+  background: red;
+  -moz-border-radius: 45px;
+  -webkit-border-radius: 45px;
+  border-radius: 45px;
+
+  position: absolute;
+  top: 55px;
+  left: 55px;
+}

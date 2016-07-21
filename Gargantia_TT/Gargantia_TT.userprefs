@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\playerHandler.cs" Line="60" Column="2" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="116" Column="102" />
+      <File FileName="e:\Documents\Unity Projects\Gargantia_BUNDLE\Gargantia_TT\Assets\TouchScript\Editor\Behaviors\Visualizer\TouchVisualizerEditor.cs" Line="10" Column="65" />
+      <File FileName="e:\Documents\Unity Projects\Gargantia_BUNDLE\Gargantia_TT\Assets\TouchScript\Editor\Gestures\FlickGestureEditor.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,26 @@
+<ion-modal-view>
+  <ion-content scroll="false">
+    <div class="controller-wrapper">
+      <div class="header">
+        Alert
+      </div>
+      <div id="joystick-wrapper" class="control-wrapper">
+        <div id="joystick-socket" class="circle-socket">
+          <div id="joystick-knob" class="hammerjs-element"></div>
+        </div>
+      </div>
+      <div id="info-panel">
+        <div>Score:</div>
+        <div>Time Left:</div>
+      </div>
+      <div id="button-wrapper" class="control-wrapper">
+        <div id="button-socket" class="circle-socket">
+          <div id="button-center" class="hammerjs-element"></div>
+        </div>
+      </div>
+      <div class="footer">
+        <button class="button button-full button-positive " ng-click="closeModal()">Leave Game</button><br/>
+      </div>
+    </div>
+  </ion-content>
+</ion-modal-view>

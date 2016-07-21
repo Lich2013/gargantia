@@ -1,0 +1,68 @@
+{
+    "rfBindings": //object with name and array
+        [   
+             {
+                "id":["A4 3C C5 62", "64 4F C5 62"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"trigger", "action":"gravity"
+                }
+            },
+             {
+                "id":["A1 25 5B 26", "A4 9D C5 62"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"trigger", "action":"antiGravity"
+                }
+            },
+             {
+                "id":["54 5D C4 62", "01 E7 57 26"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"trigger", "action":"colorChange"
+                }
+            },
+             {
+                "id":["81 F7 53 26", "A4 45 C5 62"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"trigger", "action":"superSpawn"
+                }
+            },
+             {
+                "id":["14 E4 C4 62", "81 C4 59 26"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"trigger", "action":"Random"
+                }
+            },
+            {
+                "id":["04 79 2F BA", "04 94 47 BA", "04 B3 29 BA", "MAINMENU"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"mainmenu"
+                }
+            },
+            {
+                "id":["61 B4 58 26", "04 97 C5 62", "01 D2 50 26", "E1 66 50 26", "ERIK"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"HUMAN" , "name":"erik"
+                }
+            },
+            {
+                "id":["21 EA 5A 26", "24 7E C4 62", "31 AC 53 26", "64 9E C5 62", "HElEN"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"HUMAN" , "name":"helen"
+                }
+            },
+            {
+                "id":["F4 E5 C4 62", "34 C2 C3 62", "61 A5 57 26", "44 95 C5 62", "JEREMY"], 
+                "components": ["none"],
+                "properties": {
+                    "type":"HUMAN" , "name":"jeremy"
+                }
+            }
+        ]
+}

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Dropbox\BUILDS\Template\MultiscreenTemplateHH\Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="..\..\Dropbox\BUILDS\Template\MultiscreenTemplateHH\Assets\Scripts\BootstrapHH.cs" Line="17" Column="58" />
+      <File FileName="d:\Dropbox\BUILDS\Template\MultiscreenTemplateHH\Assets\Scripts\ClientInitialization.cs" Line="21" Column="30" />
+      <File FileName="..\..\Dropbox\BUILDS\Template\MultiscreenTemplateHH\Assets\Scripts\GameManager.cs" Line="32" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
